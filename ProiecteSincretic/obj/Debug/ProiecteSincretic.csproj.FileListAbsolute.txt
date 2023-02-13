@@ -1,0 +1,33 @@
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.exe.config
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.exe
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.pdb
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.AssemblyReference.cache
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.Configuration.resources
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.MainApp.resources
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.Properties.Resources.resources
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.GenerateResource.cache
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.CoreCompileInputs.cache
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.exe
+D:\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.pdb
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.exe.config
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.exe
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.pdb
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.AssemblyReference.cache
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.Configuration.resources
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.MainApp.resources
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.Properties.Resources.resources
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.GenerateResource.cache
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.CoreCompileInputs.cache
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.exe
+D:\University and My projects\UPT AN 3\Sem 1\PS1\.Ultimu update\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.pdb
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.AssemblyReference.cache
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.MainApp.resources
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.Properties.Resources.resources
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.GenerateResource.cache
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.csproj.CoreCompileInputs.cache
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.exe
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\obj\Debug\ProiecteSincretic.pdb
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.exe.config
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.exe
+C:\Users\sinkl\Downloads\ProiecteSincretic1\ProiecteSincretic\ProiecteSincretic\bin\Debug\ProiecteSincretic.pdb
