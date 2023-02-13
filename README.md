@@ -34,3 +34,6 @@
 - The system will have a disruptive generator that will affect the temperature measuring circuit  with random  values using the previously  implemented PRNG/TRNG module.
 
 - Pressing the "OK" button while running a temperature control program will start the disturbance mode, then pressing it again will stop it. 
+
+### Project video
+- https://drive.google.com/file/d/1hDIfY1trIYdzggnsuAM-QJQR2-MU5qbz/view
